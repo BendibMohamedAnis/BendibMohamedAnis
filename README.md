@@ -5,6 +5,8 @@
 
 ### <div align="center">I am Anis a freshly graduated software developer and network engineer from Algeria , freelancing for the moment and looking for job opportunities. 🚀</div>  
   
+<br/>  
+
 
 - 🎆 I’m currently working on [Github Profilinator](https://rishavanand.github.io/static/images/greetings.gif) while training for React.  
   
@@ -109,5 +111,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
