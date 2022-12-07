@@ -8,7 +8,7 @@
 <br/>  
 
 
-- 🎆 I’m currently working on [Github Profilinator](https://rishavanand.github.io/static/images/greetings.gif) while training for React.  
+- 🎆 I’m currently working on [Digital Cards](https://github.com/BendibMohamedAnis/Digital-cards) while training for React.  
   
 
 - 🏫 I’m currently learning ReactNative, NodeJS, Laravel.  
