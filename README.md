@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am Anis a freshly graduated software developer and network engineer from Algeria , freelancing for the moment and looking for job opportunities. 🚀</div>  
+### <div align="center">I am Anis a freshly graduated software & network engineer from Algeria , freelancing for the moment and looking for job opportunities. 🚀</div>  
   
 <br/>  
 
