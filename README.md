@@ -8,7 +8,7 @@
 <br/>  
 
 
-- 🎆 I’m currently working on [ Travel Journal ](https://github.com/BendibMohamedAnis/SellIt) while training for ReactJS.  
+- 🎆 I’m currently working on [ SellIt App ](https://github.com/BendibMohamedAnis/SellIt) while training for ReactJS.  
   
 
 - 🏫 I’m currently learning ReactNative, NodeJS, Laravel.  
