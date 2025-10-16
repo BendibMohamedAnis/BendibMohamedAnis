@@ -20,7 +20,7 @@
 
 ---
 
-### <div align="center">I’m Anis Bendib, a graduated **Software & Network Engineer** from **Algeria**</div>  
+### <div align="center">I’m Anis Bendib, a graduated **System & Network Engineer** from **Algeria**</div>  
 
 ---
 
