@@ -65,9 +65,9 @@
 ## 🌐 Connect with Me:
 <div align="center">
     <a href="https://www.linkedin.com/in/mohamed-anis-bendib-491715219" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Anis%20Bendib-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:anis.bendib.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-anis.bendib.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:anisbendib@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-anis.bendib.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://github.com/BendibMohamedAnis" target="_blank"><img src="https://img.shields.io/badge/-GitHub-24292e?style=flat&logo=GitHub&logoColor=white"/></a>
-    <a href="https://gitlab.com/Anis_1" target="_blank"><img src="https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab&logoColor=white"/></a>
+    <a href="https://gitlab.com/BendibMohamedAnis" target="_blank"><img src="https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab&logoColor=white"/></a>
 </div>
 
 ---
