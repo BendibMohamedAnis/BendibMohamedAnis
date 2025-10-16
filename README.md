@@ -20,16 +20,16 @@
 
 ---
 
-### <div align="center">I’m Anis Bendib, a freshly graduated **Software & Network Engineer** from **Algeria**, freelancing for now and open to job opportunities 🚀</div>  
+### <div align="center">I’m Anis Bendib, a graduated **Software & Network Engineer** from **Algeria**</div>  
 
 ---
 
 ## 🧠 About Me:
 
-- 💼 Currently working as a **Network & System Engineer**, focusing on **Office 365 mailbox monitoring**, infrastructure, and system automation.  
-- 🛠️ Building [**SellIt App**](https://github.com/BendibMohamedAnis/SellIt) while learning **Laravel / PHP / Bootstrap**.  
+- 💼 Currently working as a **Infrastructure Engineer**, focusing on infrastructure and system automation.  
+- 🛠️ Building **OFFICE365 mailbox Monitor** while learning **Laravel / PHP / Bootstrap**.  
 - 📘 Exploring **React Native**, **NodeJS**, and **Laravel** to grow as a full-stack developer.  
-- 🔐 Enthusiast in **Pentesting**, **Reverse Engineering**, and **CTFs** (for learning and fun).  
+- 🔐 Enthusiast in **Pentesting**, **Reverse Engineering**, and **CTFs**.  
 - ☁️ Passionate about **system administration**, **cloud tools**, and **network automation**.  
 - ⚡ Fun fact: I enjoy breaking things just to fix them better 😄  
 
