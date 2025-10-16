@@ -1,113 +1,106 @@
+# Hi, I'm ANIS BENDIB  
+
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I am Anis a freshly graduated software & network engineer from Algeria , freelancing for the moment and looking for job opportunities. 🚀</div>  
-  
-<br/>  
+---
 
+### <div align="center">I’m Anis Bendib, a freshly graduated **Software & Network Engineer** from **Algeria**, freelancing for now and open to job opportunities 🚀</div>  
 
-- 🎆 I’m currently working on [ SellIt App ](https://github.com/BendibMohamedAnis/SellIt) while training for Laravel / PHP and bootstrap.  
-  
+---
 
-- 🏫 I’m currently learning ReactNative, NodeJS, Laravel.  
-  
+## 🧠 About Me:
 
-- ❓  Ready to help for any related problems regarding coding or network.  
-  
+- 💼 Currently working as a **Network & System Engineer**, focusing on **Office 365 mailbox monitoring**, infrastructure, and system automation.  
+- 🛠️ Building [**SellIt App**](https://github.com/BendibMohamedAnis/SellIt) while learning **Laravel / PHP / Bootstrap**.  
+- 📘 Exploring **React Native**, **NodeJS**, and **Laravel** to grow as a full-stack developer.  
+- 🔐 Enthusiast in **Pentesting**, **Reverse Engineering**, and **CTFs** (for learning and fun).  
+- ☁️ Passionate about **system administration**, **cloud tools**, and **network automation**.  
+- ⚡ Fun fact: I enjoy breaking things just to fix them better 😄  
 
-- ⚡ Fun fact: I do some silly pentesting and reverse engineering.  
-  
+---
 
-<br/>  
+## 🧰 Skill Set:
 
-
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
+### 🖥️ Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=4" />  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### Backend  
+### ⚙️ Backend  
 <div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,mysql,mongodb&perline=4" />  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+### 🧑‍💻 DevOps & Systems  
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,azure,powershell&perline=4" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+---
 
-
-## Connect with me  
+## 🌐 Connect with Me:
 <div align="center">
-<a href="https://github.com/BendibMohamedAnis" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mohamed-anis-bendib-491715219" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/Anis_1" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+    <a href="https://www.linkedin.com/in/mohamed-anis-bendib-491715219" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Anis%20Bendib-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:anis.bendib.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-anis.bendib.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://github.com/BendibMohamedAnis" target="_blank"><img src="https://img.shields.io/badge/-GitHub-24292e?style=flat&logo=GitHub&logoColor=white"/></a>
+    <a href="https://gitlab.com/Anis_1" target="_blank"><img src="https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab&logoColor=white"/></a>
+</div>
 
-<br/>  
+---
 
+## 📊 GitHub Stats:
+<p align="center">
+    <a href="https://github.com/BendibMohamedAnis">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BendibMohamedAnis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BendibMohamedAnis&layout=compact&langs_count=8&theme=onedark&hide_border=true" />
+    </a>
+</p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BendibMohamedAnis&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/BendibMohamedAnis">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=BendibMohamedAnis&bg_color=282c34&color=79FE96&line=79FE96&point=FFFFFF&area_color=282c34&title_color=79FE96&hide_border=true"/>
+  </a> 
+</p>
 
-<br/> 
+---
 
+<p align="center">
+   <a href="https://github.com/BendibMohamedAnis"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=BendibMohamedAnis&theme=onedark&hide_border=true" /> 
+   </a>  
+</p>
+
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=BendibMohamedAnis&&style=flat-square" align="center" />
-</div>  
-  
+  <img src="https://komarev.com/ghpvc/?username=BendibMohamedAnis&style=for-the-badge&color=blue" alt=""/>
+</div>
 
-<br/>  
-
-
-<br />
-
+<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
